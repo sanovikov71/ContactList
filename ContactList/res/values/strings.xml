@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ContactList</string>
+    <string name="first_name">First Name:</string>
+    <string name="second_name">Second Name:</string>
+    <string name="phone">Phone number:</string>
+    <string name="okey">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit">Edit</string>
+
+</resources>
